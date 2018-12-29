@@ -4,7 +4,6 @@ Part of the Good Samaritan Application -   A Django application where non-profit
 
 
 Creating an inventory system where food pantries (the consumer) and restaurants/grocery stores (the vendor) meet!
-Vendors will upload their inventory of food or beverages available for donation
-Consumers can log in, find vendor information, and reserve 
+Vendors will upload their inventory of food or beverages available for donation, while consumers can log in, find vendor information, and reserve donations.
 
 this application has the login functionality and blog posting for the app
