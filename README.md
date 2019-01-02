@@ -1,9 +1,3 @@
-# goodSamaritanBlog
-Part of the Good Samaritan Application -   A Django application where non-profit food pantries and restaurants meet
+# django-blog
 
-
-
-Creating an inventory system where food pantries (the consumer) and restaurants/grocery stores (the vendor) meet!
-Vendors will upload their inventory of food or beverages available for donation, while consumers can log in, find vendor information, and reserve donations.
-
-this application has the login functionality and blog posting for the app
+blog application written in django - can be used in other django applications
